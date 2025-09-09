@@ -22,7 +22,7 @@ pip install sprite-cli
 ### From Source
 
 ```bash
-git clone https://github.com/sprite-cli/sprite.git
+git clone https://github.com/regularguythatcodes/sprite.git
 cd sprite
 pip install -e .
 ```
